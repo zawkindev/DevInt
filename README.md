@@ -1,1 +1,1 @@
-# DevInt
+# frontend-boilerplate
